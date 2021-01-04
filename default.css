@@ -395,7 +395,6 @@ h6 { font-size: 16px;}
 
 .img-container-game{
 	display: flex;
-	justify-content: space-between;
 	max-width: 30%;
 	max-height: 35%;
 }
@@ -419,6 +418,7 @@ h6 { font-size: 16px;}
 	.right-column{
 		justify-content: center;
 	}
+	
 
 }
 
