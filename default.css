@@ -393,6 +393,12 @@ h6 { font-size: 16px;}
 	border:none;
 }
 
+.img-container-game{
+	display: flex;
+	justify-content: space-between;
+	max-width: 30%;
+	max-height: 35%;
+}
 
 @media screen and (max-width: 1200px){
 	.main-container{
@@ -427,6 +433,9 @@ h6 { font-size: 16px;}
 	#preview{
 		width: 280px;
 
+	}
+	.main-container-game{
+		flex-direction: "column";
 	}
 
 }
