@@ -395,7 +395,7 @@ h6 { font-size: 16px;}
 
 .img-container-game{
 	display: flex;
-	max-width: 30%;
+	min-width: 30%;
 	max-height: 35%;
 }
 
