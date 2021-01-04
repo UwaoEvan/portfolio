@@ -438,6 +438,11 @@ h6 { font-size: 16px;}
 		flex-direction: "column";
 	}
 
+	.img-container-game{
+		flex-direction: column;
+		object-fit: contain;
+	}
+
 }
 
 
